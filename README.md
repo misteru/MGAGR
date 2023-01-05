@@ -2,7 +2,7 @@
 code for MGAGR (Robust Unsupervised Feature Selection via Multi-Group Adaptive Graph Representation)
 
 
-## please cite the following reference:
+## Please cite the following reference:
 
 [1] M. You, A. Yuan, M. Zou, D. j. He and X. Li, "Robust Unsupervised Feature Selection via Multi-Group Adaptive Graph Representation," in IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2021.3124255.
 
