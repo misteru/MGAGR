@@ -1,5 +1,5 @@
 # MGAGR
-Robust Unsupervised Feature Selection via Multi-Group Adaptive Graph Representation
+code for MGAGR (Robust Unsupervised Feature Selection via Multi-Group Adaptive Graph Representation)
 
 
 please cite the following reference:
