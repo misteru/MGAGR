@@ -86,7 +86,9 @@ for iter = 1:maxIter
         for j = 1:n
             S(i, j) = max(temp(j), 0);
         end
+            S(i,:) = S(i,:)./sum(S(i,:));
     end
+    S=(S+S')./2;
     clear B_i a_i part_m psi temp;
     
     %% update Z
